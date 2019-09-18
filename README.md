@@ -9,11 +9,11 @@ bruh ...
 
 la la la...
 
-je suis très inspiré pour 
+je suis très inspiré pour
 
 remplir
 
-le 
+le
 
 fichier
 
@@ -22,3 +22,7 @@ README.md
 lol
 
 ...
+
+et ba
+
+## amuse toi!
